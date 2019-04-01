@@ -1,0 +1,6 @@
+{
+    "name": "li",
+    "age": 20,
+    "hobbit": ["sport", "read", "listen"],
+    "major": "Web-Technology"
+}
